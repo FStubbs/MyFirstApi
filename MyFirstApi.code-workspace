@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "MyFirstApi.Api"
+		},
+		{
+			"path": "MyFirstApi.Library"
+		},
+		{
+			"path": "MyFirstApi.Library.Tests"
+		}
+	],
+	"settings": {}
+}
